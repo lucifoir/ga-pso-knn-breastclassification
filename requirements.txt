@@ -1,0 +1,15 @@
+# Core dependencies
+numpy==1.26.4
+pandas==2.2.2
+matplotlib==3.9.2
+seaborn==0.13.2
+
+# Machine Learning
+scikit-learn==1.5.2
+
+# Kaggle Dataset
+kagglehub==0.2.5
+
+# Development utilities
+jupyter==1.0.0
+notebook==7.2.2

@@ -4,11 +4,6 @@ This project applies **Genetic Algorithm (GA)** and **Particle Swarm Optimizatio
 
 ---
 
-## Best Model
-**PSO + KNN** — Test Accuracy: **≈ 97 %**, F1-Score: **≈ 0.96**
-
----
-
 ## Overview
 Using evolutionary and swarm-based optimization, this notebook demonstrates:
 
